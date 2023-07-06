@@ -1,0 +1,3 @@
+SELECT *
+FROM kfc_nsk
+WHERE breakfastStartTime <= '08:45:00' AND breakfastEndTime > '08:45:00' and city='Новосибирск';

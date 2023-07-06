@@ -1,0 +1,337 @@
+{
+            "store": {
+                "storeId": "74220891",
+                "localStoreId": "74220891",
+                "kfcCityId": "bc9b73b2-46de-48b2-bfae-36aa867beeb6",
+                "externalIdentifiers": {
+                    "JDE": "74220891",
+                    "siteId": "798"
+                },
+                "title": {
+                    "en": "KFC Lenta Energetikov Novosibirsk",
+                    "ru": "KFC Лента Энергетиков Новосибирск"
+                },
+                "contacts": {
+                    "streetAddress": {
+                        "en": "630108, Новосибирск, проезд Энергетиков, 9",
+                        "ru": "630108, Новосибирск, проезд Энергетиков, 9"
+                    },
+                    "kfcCityId": "bc9b73b2-46de-48b2-bfae-36aa867beeb6",
+                    "city": {
+                        "en": "Novosibirsk",
+                        "ru": "Новосибирск"
+                    },
+                    "coordinates": {
+                        "type": "Feature",
+                        "geometry": {
+                            "type": "Point",
+                            "coordinates": [
+                                55.009649,
+                                82.877532
+                            ]
+                        },
+                        "properties": {
+                            "name": {
+                                "en": "KFC Lenta Energetikov Novosibirsk",
+                                "ru": "KFC Лента Энергетиков Новосибирск"
+                            }
+                        }
+                    },
+                    "navigationLandmarks": [
+                        {
+                            "landmarkType": "metro",
+                            "landmarkName": {
+                                "en": "",
+                                "ru": "Площадь Маркса"
+                            }
+                        }
+                    ],
+                    "storeManager": {
+                        "en": "",
+                        "ru": "Парышкова Ольга"
+                    },
+                    "phoneNumber": "+74952408424 доб. 6380, 9380",
+                    "phoneComment": {
+                        "en": "",
+                        "ru": "Площадь Маркса"
+                    },
+                    "phone": {
+                        "number": "+74952408424",
+                        "extensions": [
+                            "6380",
+                            "9380"
+                        ]
+                    }
+                },
+                "availableChannels": [
+                    "mobile",
+                    "website"
+                ],
+                "openingHours": {
+                    "regular": {
+                        "startTimeLocal": "10:00:00",
+                        "endTimeLocal": "00:00:00"
+                    },
+                    "regularDaily": [
+                        {
+                            "weekDay": 1,
+                            "weekDayName": "Monday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        },
+                        {
+                            "weekDay": 2,
+                            "weekDayName": "Tuesday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        },
+                        {
+                            "weekDay": 3,
+                            "weekDayName": "Wednesday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        },
+                        {
+                            "weekDay": 4,
+                            "weekDayName": "Thursday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        },
+                        {
+                            "weekDay": 5,
+                            "weekDayName": "Friday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        },
+                        {
+                            "weekDay": 6,
+                            "weekDayName": "Saturday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        },
+                        {
+                            "weekDay": 7,
+                            "weekDayName": "Sunday",
+                            "timeFrom": "10:00:00",
+                            "timeTill": "00:00:00"
+                        }
+                    ],
+                    "driveInDaily": [
+                        {
+                            "weekDay": 1,
+                            "weekDayName": "Monday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        },
+                        {
+                            "weekDay": 2,
+                            "weekDayName": "Tuesday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        },
+                        {
+                            "weekDay": 3,
+                            "weekDayName": "Wednesday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        },
+                        {
+                            "weekDay": 4,
+                            "weekDayName": "Thursday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        },
+                        {
+                            "weekDay": 5,
+                            "weekDayName": "Friday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        },
+                        {
+                            "weekDay": 6,
+                            "weekDayName": "Saturday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        },
+                        {
+                            "weekDay": 7,
+                            "weekDayName": "Sunday",
+                            "timeFrom": "05:00:00",
+                            "timeTill": "04:00:00"
+                        }
+                    ],
+                    "walkupWindowDaily": null
+                },
+                "timeZone": "Asia/Novosibirsk",
+                "openNow": true,
+                "usePriceApi": false,
+                "status": "Open",
+                "services": [
+                    {
+                        "serviceType": "delivery",
+                        "availability": {
+                            "regular": {
+                                "startTimeLocal": "10:00:00",
+                                "endTimeLocal": "23:15:00"
+                            },
+                            "regularDaily": [
+                                {
+                                    "weekDay": 1,
+                                    "weekDayName": "Monday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                },
+                                {
+                                    "weekDay": 2,
+                                    "weekDayName": "Tuesday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                },
+                                {
+                                    "weekDay": 3,
+                                    "weekDayName": "Wednesday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                },
+                                {
+                                    "weekDay": 4,
+                                    "weekDayName": "Thursday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                },
+                                {
+                                    "weekDay": 5,
+                                    "weekDayName": "Friday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                },
+                                {
+                                    "weekDay": 6,
+                                    "weekDayName": "Saturday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                },
+                                {
+                                    "weekDay": 7,
+                                    "weekDayName": "Sunday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "23:15:00"
+                                }
+                            ]
+                        },
+                        "availableNow": false
+                    },
+                    {
+                        "serviceType": "clickCollect",
+                        "availability": {
+                            "regular": {
+                                "startTimeLocal": null,
+                                "endTimeLocal": null
+                            },
+                            "regularDaily": [
+                                {
+                                    "weekDay": 1,
+                                    "weekDayName": "Monday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                },
+                                {
+                                    "weekDay": 2,
+                                    "weekDayName": "Tuesday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                },
+                                {
+                                    "weekDay": 3,
+                                    "weekDayName": "Wednesday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                },
+                                {
+                                    "weekDay": 4,
+                                    "weekDayName": "Thursday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                },
+                                {
+                                    "weekDay": 5,
+                                    "weekDayName": "Friday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                },
+                                {
+                                    "weekDay": 6,
+                                    "weekDayName": "Saturday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                },
+                                {
+                                    "weekDay": 7,
+                                    "weekDayName": "Sunday",
+                                    "timeFrom": "10:00:00",
+                                    "timeTill": "00:00:00"
+                                }
+                            ]
+                        },
+                        "availableNow": true
+                    }
+                ],
+                "features": [
+                    "driveIn",
+                    "wifi",
+                    "breakfast"
+                ],
+                "menues": [
+                    {
+                        "name": "Завтрак",
+                        "availability": {
+                            "regular": {
+                                "startTimeLocal": "06:00:00",
+                                "endTimeLocal": "11:00:00"
+                            },
+                            "regularByDays": {
+                                "fridayCloseTime": null,
+                                "fridayOpenTime": null,
+                                "mondayCloseTime": null,
+                                "mondayOpenTime": null,
+                                "saturdayCloseTime": null,
+                                "saturdayOpenTime": null,
+                                "sundayCloseTime": null,
+                                "sundayOpenTime": null,
+                                "thursdayCloseTime": null,
+                                "thursdayOpenTime": null,
+                                "tuesdayCloseTime": null,
+                                "tuesdayOpenTime": null,
+                                "wednesdayCloseTime": null,
+                                "wednesdayOpenTime": null
+                            },
+                            "driveInByDays": {
+                                "fridayCloseTime": null,
+                                "fridayOpenTime": null,
+                                "mondayCloseTime": null,
+                                "mondayOpenTime": null,
+                                "saturdayCloseTime": null,
+                                "saturdayOpenTime": null,
+                                "sundayCloseTime": null,
+                                "sundayOpenTime": null,
+                                "thursdayCloseTime": null,
+                                "thursdayOpenTime": null,
+                                "tuesdayCloseTime": null,
+                                "tuesdayOpenTime": null,
+                                "wednesdayCloseTime": null,
+                                "wednesdayOpenTime": null
+                            }
+                        },
+                        "availableNow": false
+                    }
+                ],
+                "timeSync": {
+                    "storeLocalTime": "2023-07-05T23:49:52.86134426Z",
+                    "utcTime": "2023-07-05T16:49:52.86134426Z"
+                },
+                "menuExists": true,
+                "format": "standard",
+                "brand": "kfc"
+            },
+            "distanceMeters": 1231.51888856
+        }
