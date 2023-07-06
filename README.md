@@ -19,3 +19,8 @@
  Скрипт обрабатывает данные и записывает их в [kfc.db](https://github.com/shinkared/kfc_test/blob/master/kfc.db)
 
  В файле [query](https://github.com/shinkared/kfc_test/blob/master/query) можно найти запрос для аналитика
+```sql:
+SELECT *
+FROM kfc_nsk
+WHERE breakfastStartTime <= '08:45:00' AND breakfastEndTime > '08:45:00' and city='Новосибирск';
+```
